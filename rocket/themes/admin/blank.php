@@ -1,0 +1,1 @@
+<?php echo Template::r_yield(); ?>

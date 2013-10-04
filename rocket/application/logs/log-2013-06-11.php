@@ -1,0 +1,102 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-06-11 13:25:01 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:25:01 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:25:01 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:25:01 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:01 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:01 --> Severity: Notice  --> Trying to get property of non-object /home/anton/work/ineedplan/rocket/themes/default/parts/topbar.php 14
+ERROR - 2013-06-11 13:25:01 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/anton/work/ineedplan/rocket/themes/default/index.php:11) /home/anton/work/ineedplan/rocket/codeigniter/core/Common.php 442
+ERROR - 2013-06-11 13:25:15 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:25:15 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:25:15 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:25:15 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:15 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:15 --> Severity: Notice  --> Trying to get property of non-object /home/anton/work/ineedplan/rocket/themes/default/parts/topbar.php 14
+ERROR - 2013-06-11 13:25:15 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/anton/work/ineedplan/rocket/themes/default/index.php:11) /home/anton/work/ineedplan/rocket/codeigniter/core/Common.php 442
+ERROR - 2013-06-11 13:25:30 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:25:30 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:25:30 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:25:30 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:30 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:31 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:25:31 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:25:31 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:25:31 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:31 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:32 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:25:32 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:25:32 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:25:32 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:32 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:37 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:25:37 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:25:37 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:25:37 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:37 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:25:37 --> Query error: Table 'ineedplan.projects' doesn't exist
+ERROR - 2013-06-11 13:28:48 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:28:48 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:28:48 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:28:48 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:28:48 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:28:55 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:28:55 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:28:55 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:28:55 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:28:55 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:29:00 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:29:00 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:29:00 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:29:00 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:29:00 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:29:01 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:29:01 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:29:01 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:29:01 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:29:01 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:29:04 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:29:04 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:29:04 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:29:04 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:29:04 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:29:04 --> Query error: Unknown column 'project_id' in 'where clause'
+ERROR - 2013-06-11 13:35:54 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:35:54 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:35:54 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:35:54 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:35:54 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:35:54 --> Severity: Notice  --> Undefined variable: empty_project /home/anton/work/ineedplan/rocket/modules/project/views/show.php 153
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:35:57 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:36:04 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:36:04 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:36:04 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:36:04 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:36:04 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:36:05 --> Severity: Notice  --> Undefined variable: empty_project /home/anton/work/ineedplan/rocket/modules/project/views/show.php 153
+ERROR - 2013-06-11 13:36:07 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:36:07 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:36:07 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:36:07 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:36:07 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:41:45 --> 404 Page Not Found --> 
+ERROR - 2013-06-11 13:41:54 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:41:54 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:41:54 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:41:54 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:41:54 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:44:16 --> 404 Page Not Found --> 
+ERROR - 2013-06-11 13:44:20 --> Severity: Notice  --> Undefined index: parent /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 51
+ERROR - 2013-06-11 13:44:20 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 63
+ERROR - 2013-06-11 13:44:20 --> Severity: Notice  --> Undefined index: public /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 66
+ERROR - 2013-06-11 13:44:20 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
+ERROR - 2013-06-11 13:44:20 --> Severity: Notice  --> Undefined index: perm /home/anton/work/ineedplan/rocket/application/core_modules/ui/libraries/contexts.php 83
